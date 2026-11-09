@@ -1,4 +1,4 @@
-Food Delivery Insights 📊
+Smart Delivery Insights 📊
 About the Project
 This project focuses on analyzing food delivery business data to identify sales trends, customer behavior, and operational insights.
 
