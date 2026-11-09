@@ -1,14 +1,15 @@
-Smart Delivery Insights 📊
+Smart Restaurant Insights 📊
 About the Project
-This project focuses on analyzing food delivery business data to identify sales trends, customer behavior, and operational insights.
+This project looks at food delivery data to find useful patterns.
 
-The goal is to transform raw data into meaningful information that can support better business decisions.
+The goal is to make data clear and useful We look at orders, products, and busy times.
+
 Objectives
-- Analyze total revenue and order volume.
+-Calculate total sales and number of orders.
 - Identify the most popular products.
 - Understand peak ordering hours.
 - Explore customer purchasing behavior.
-- Generate actionable business insights.
+- Generate actionable insights for the team.
 Tools & Technologies
 - Python
 - SQL
